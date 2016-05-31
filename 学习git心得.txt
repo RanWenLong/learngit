@@ -3,4 +3,5 @@
 2、将目录变成管理仓库 git init
 3、将文件添加到版本库 git add {文件或目录名}
 4、git commit -m "说明"  告诉git吧文件提交到仓库
-5、
+5、git status 要随时掌握工作区的状态是否有改过
+6、git diff 查看修改内容
