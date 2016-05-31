@@ -5,4 +5,4 @@
 4、git commit -m "说明"  告诉git吧文件提交到仓库
 5、git status 要随时掌握工作区的状态是否有改过
 6、git diff 查看修改内容
-7、git log 查看提交过得版本
+7、git log 查看提交过的版本 结果变得简单加入--pretty=oneline
