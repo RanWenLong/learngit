@@ -38,3 +38,4 @@ GitHub
 1、git checkout -b dev创建分支  =  git branch dev    git checkout dev 前面一句相当于后面两句
 2、git branch 列出所有分支，当前分支前面会标一个*号
 
+解决冲突部分内容为什么啥也没有了
