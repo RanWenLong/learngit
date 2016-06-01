@@ -35,6 +35,11 @@ GitHub
 
 相关命令
 一、创建与合并分支
-1、git checkout -b dev创建分支  =  git branch dev    git checkout dev 前面一句相当于后面两句
+1、git checkout -b <name>创建分支并且换到新的分支上       
+	a)、git branch <name> 	 （创建分支）
+	b)、git checkout <name> （切换分支）
 2、git branch 列出所有分支，当前分支前面会标一个*号
+3、git merge <name>  合并到 dev分支
+4、git branch -d <name>删除分支
+二、解决冲突
 
