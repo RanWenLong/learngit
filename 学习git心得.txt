@@ -42,11 +42,5 @@ GitHub
 3、git merge <name>  合并到 dev分支
 4、git branch -d <name>删除分支
 二、解决冲突
+需要手动修改合并的内容然后在提交
 
-解决冲突部分内容为什么啥也没有了
-<<<<<<< HEAD
-Your branch is ahead of 'origin/master' by 4 commits.
-  (use "git push" to publish your local commits)
-=======
-后面加入一行
->>>>>>> dev
