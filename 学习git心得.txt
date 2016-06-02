@@ -44,5 +44,9 @@ GitHub
 二、解决冲突
 
 解决冲突部分内容为什么啥也没有了
+<<<<<<< HEAD
 Your branch is ahead of 'origin/master' by 4 commits.
   (use "git push" to publish your local commits)
+=======
+后面加入一行
+>>>>>>> dev
